@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\romka\\source\\repos\\projectWPF\\StudentCard\\StudentCard.csproj": {}
+    "C:\\Users\\romka\\Source\\Repos\\projectWPF\\StudentCard\\StudentCard.csproj": {}
   },
   "projects": {
-    "C:\\Users\\romka\\source\\repos\\projectWPF\\StudentCard\\StudentCard.csproj": {
+    "C:\\Users\\romka\\Source\\Repos\\projectWPF\\StudentCard\\StudentCard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\romka\\source\\repos\\projectWPF\\StudentCard\\StudentCard.csproj",
+        "projectUniqueName": "C:\\Users\\romka\\Source\\Repos\\projectWPF\\StudentCard\\StudentCard.csproj",
         "projectName": "StudentCard",
-        "projectPath": "C:\\Users\\romka\\source\\repos\\projectWPF\\StudentCard\\StudentCard.csproj",
+        "projectPath": "C:\\Users\\romka\\Source\\Repos\\projectWPF\\StudentCard\\StudentCard.csproj",
         "packagesPath": "C:\\Users\\romka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\romka\\source\\repos\\projectWPF\\StudentCard\\obj\\",
+        "outputPath": "C:\\Users\\romka\\Source\\Repos\\projectWPF\\StudentCard\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\romka\\AppData\\Roaming\\NuGet\\NuGet.Config",

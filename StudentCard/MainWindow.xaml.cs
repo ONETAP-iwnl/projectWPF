@@ -23,6 +23,7 @@ namespace StudentCard
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = new View();
         }
     }
 }

@@ -1,0 +1,29 @@
+{
+  {
+    "LastName": "Иванов",
+    "FirstName": "Иван",
+    "MiddleName": "Иванович",
+    "DateOfBirth": "1990-01-01T00:00:00",
+    "Group": "Группа 1",
+    "DateOfAdmission": "2010-09-01T00:00:00",
+    "DateAdded": "2021-05-01T00:00:00"
+  },
+  {
+    "DateAdded": "2021-05-02T00:00:00",
+    "DateOfAdmission": "2011-09-01T00:00:00",
+    "DateOfBirth": "1991-02-01T00:00:00",
+    "FirstName": "Петр",
+    "Group": "Группа 2",
+    "LastName": "Петров",
+    "MiddleName": "Петрович"
+  },
+  {
+    "LastName": "Сидоров",
+    "FirstName": "Сидор",
+    "MiddleName": "Сидорович",
+    "DateOfBirth": "1992-03-01T00:00:00",
+    "Group": "Группа 1",
+    "DateOfAdmission": "2012-09-01T00:00:00",
+    "DateAdded": "2021-05-03T00:00:00"
+  }
+}
