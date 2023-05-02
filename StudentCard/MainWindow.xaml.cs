@@ -13,6 +13,8 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+
+
 namespace StudentCard
 {
     /// <summary>
@@ -23,7 +25,30 @@ namespace StudentCard
         public MainWindow()
         {
             InitializeComponent();
-            DataContext = new View();
+           
+        }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            
+
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            string text = Groups.Text;
+
+            if (text == "2пк1" || text == "2ПК1")
+            {
+                Group2PK1 group2PK1 = new Group2PK1();
+                group2PK1.Show();
+                
+            }
+            else if (text == "2пк2" || text == "2ПК2")
+            {
+                Groupe2PK2 groupe2PK2 = new Groupe2PK2();
+                groupe2PK2.Show();
+            }
         }
     }
 }

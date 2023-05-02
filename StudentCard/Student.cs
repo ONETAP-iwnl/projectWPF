@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Text.Json;
+using System.IO;
+using Newtonsoft.Json;
 
 namespace StudentCard
 {
-    internal class Student
+    public class Student: Group2PK1
     {
         public string LastName { get; set; }
         public string FirstName { get; set; }
@@ -16,5 +18,8 @@ namespace StudentCard
         public string Group { get; set; }
         public DateTime DateOfAdmission { get; set; }
         public DateTime DateAdded { get; set; }
+
+        
+        
     }
 }

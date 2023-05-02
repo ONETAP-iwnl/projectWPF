@@ -55,19 +55,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\romka\\.nuget\\packages\\": {}
+    "C:\\Users\\ромка\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\romka\\source\\repos\\projectWPF\\StudentCard\\StudentCard.csproj",
+      "projectUniqueName": "C:\\Users\\ромка\\Source\\Repos\\projectWPF\\StudentCard\\StudentCard.csproj",
       "projectName": "StudentCard",
-      "projectPath": "C:\\Users\\romka\\source\\repos\\projectWPF\\StudentCard\\StudentCard.csproj",
-      "packagesPath": "C:\\Users\\romka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\romka\\source\\repos\\projectWPF\\StudentCard\\obj\\",
+      "projectPath": "C:\\Users\\ромка\\Source\\Repos\\projectWPF\\StudentCard\\StudentCard.csproj",
+      "packagesPath": "C:\\Users\\ромка\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ромка\\Source\\Repos\\projectWPF\\StudentCard\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\romka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ромка\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -117,7 +117,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
