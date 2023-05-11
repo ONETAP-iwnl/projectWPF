@@ -1,0 +1,245 @@
+[
+  {
+    "LastName": "\u0410\u0445\u0442\u044F\u043C\u043E\u0432\u0430",
+    "FirstName": "\u0421\u043E\u0444\u0438\u044F",
+    "Patronymic": "\u0418\u043B\u044C\u0434\u0430\u0440\u043E\u0432\u043D\u0430",
+    "BirthDate": "2005-12-10T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u0411\u0435\u0437\u0431\u043E\u0440\u043E\u0434\u043E\u0432",
+    "FirstName": "\u0421\u0442\u0430\u043D\u0438\u0441\u043B\u0430\u0432",
+    "Patronymic": "\u042D\u0434\u0443\u0430\u0440\u0434\u043E\u0432\u0438\u0447",
+    "BirthDate": "2005-10-10T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "123123",
+    "FirstName": "\u0418\u0432\u0430\u043D",
+    "Patronymic": "\u0421\u0435\u0440\u0433\u0435\u0435\u0432\u0438\u0447",
+    "BirthDate": "2005-12-22T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u0413\u0443\u0444\u0440\u0430\u0435\u0432",
+    "FirstName": "\u041B\u0435\u043E\u043D\u0438\u0434",
+    "Patronymic": "\u0415\u0432\u0433\u0435\u043D\u044C\u0435\u0432\u0438\u0447",
+    "BirthDate": "2005-01-01T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u0416\u0443\u043B\u0438\u043A\u043E\u0432\u0430",
+    "FirstName": "\u041C\u0430\u0440\u0433\u043E\u0440\u0438\u0442\u0430",
+    "Patronymic": "\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u043E\u0432\u043D\u0430",
+    "BirthDate": "2005-09-13T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u0416\u0443\u043C\u0430\u0431\u0430\u0435\u0432\u0430",
+    "FirstName": "\u0410\u043B\u044C\u0431\u0438\u043D\u0430",
+    "Patronymic": "\u0410\u043C\u0430\u043D\u0436\u043E\u043B\u043E\u0432\u043D\u0430",
+    "BirthDate": "2005-12-22T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u0417\u0430\u043B\u043E\u0437\u043D\u044B\u0439",
+    "FirstName": "\u0417\u0430\u043B\u043E\u0437\u043D\u044B\u0439",
+    "Patronymic": "\u0417\u0430\u043B\u043E\u0437\u043D\u044B\u0439",
+    "BirthDate": "2005-12-29T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u0418\u0437\u043C\u0430\u0433\u0430\u043C\u0431\u0435\u0442\u043E\u0432",
+    "FirstName": "\u0414\u0430\u043C\u0438\u0440",
+    "Patronymic": "\u041C\u0430\u0440\u0430\u0442\u043E\u0432\u0438\u0447",
+    "BirthDate": "2005-02-09T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u041A\u043E\u0437\u0438\u043D",
+    "FirstName": "\u0421\u0442\u0435\u043F\u0430\u043D",
+    "Patronymic": "\u0418\u0433\u043E\u0440\u0435\u0432\u0438\u0447",
+    "BirthDate": "2005-10-27T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u041A\u043E\u0437\u043B\u043E\u0432\u0446\u0435\u0432",
+    "FirstName": "\u0421\u0435\u0440\u0433\u0435\u0439",
+    "Patronymic": "\u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447",
+    "BirthDate": "2005-11-08T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u041A\u043E\u043B\u0435\u043D\u043E\u0432",
+    "FirstName": "\u0410\u043D\u0442\u043E\u043D",
+    "Patronymic": "\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447",
+    "BirthDate": "2005-07-21T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u041A\u043E\u043B\u044B\u0447\u0435\u0432\u0430",
+    "FirstName": "\u0411\u043E\u0436\u0435\u043D\u0430",
+    "Patronymic": "\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u043D\u0430",
+    "BirthDate": "2005-12-09T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u041B\u0430\u043F\u0443\u0437\u0438\u043D",
+    "FirstName": "\u041A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D",
+    "Patronymic": "\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0438\u0447",
+    "BirthDate": "2005-03-02T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u041B\u0438\u0437\u043D\u0435\u0432",
+    "FirstName": "\u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432",
+    "Patronymic": "\u042F\u0440\u043E\u0441\u043B\u0430\u0432\u043E\u0432\u0438\u0447",
+    "BirthDate": "2005-05-13T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u041B\u044C\u0432\u043E\u0432",
+    "FirstName": "\u0410\u043B\u0435\u043A\u0441\u0435\u0439",
+    "Patronymic": "\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447",
+    "BirthDate": "2004-03-11T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u041C\u0430\u043A\u0438\u043C\u043E\u0432",
+    "FirstName": "\u0410\u043B\u0434\u0438\u044F\u0440",
+    "Patronymic": "\u0421\u0430\u043C\u0430\u0442\u043E\u0432\u0438\u0447",
+    "BirthDate": "2005-05-29T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u041C\u0435\u0440\u0437\u043B\u0438\u043A\u0438\u043D",
+    "FirstName": "\u0410\u043D\u0434\u0440\u0435\u0439",
+    "Patronymic": "\u0418\u043B\u044C\u0438\u0447",
+    "BirthDate": "2005-02-03T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u041C\u0438\u0447\u043A\u0430\u0441\u043E\u0432",
+    "FirstName": "\u0413\u0435\u043E\u0440\u0433\u0438\u0439",
+    "Patronymic": "\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u043E\u0432\u0438\u0447",
+    "BirthDate": "2005-04-02T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u0421\u0435\u043D\u0430\u0446\u043A\u0438\u0439",
+    "FirstName": "\u041D\u0438\u043A\u0438\u0442\u0430",
+    "Patronymic": "\u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447",
+    "BirthDate": "2005-04-15T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u0421\u0443\u0445\u0430\u043D\u043E\u0432\u0430",
+    "FirstName": "\u0412\u043B\u0430\u0434\u0430",
+    "Patronymic": "\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u043D\u0430",
+    "BirthDate": "2005-03-29T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u0422\u0438\u043C\u0438\u0440\u0431\u0443\u043B\u0430\u0442\u043E\u0432\u0430",
+    "FirstName": "\u0410\u0434\u0435\u043B\u0438\u043D\u0430",
+    "Patronymic": "\u0418\u043B\u044C\u0434\u0430\u0440\u043E\u0432\u043D\u0430",
+    "BirthDate": "2005-04-27T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u0427\u0435\u043B\u043D\u043E\u043A\u043E\u0432\u0430",
+    "FirstName": "\u042D\u043B\u044C\u0432\u0438\u0440\u0430",
+    "Patronymic": "\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432\u043D\u0430",
+    "BirthDate": "2005-10-06T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u0427\u0435\u0440\u043D\u0438\u043A\u043E\u0432",
+    "FirstName": "\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440",
+    "Patronymic": "\u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447",
+    "BirthDate": "2005-06-16T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u0428\u0430\u0434\u0440\u043E\u0432",
+    "FirstName": "\u0418\u0432\u0430\u043D",
+    "Patronymic": "\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0438\u0447",
+    "BirthDate": "2005-08-22T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u0428\u0435\u0440\u0433\u0430\u043D\u043E\u0432",
+    "FirstName": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Patronymic": "\u0411\u043E\u0440\u0438\u0441\u043E\u0432\u0438\u0447",
+    "BirthDate": "2005-11-02T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u0428\u0438\u0440\u043E\u043A\u043E\u0432",
+    "FirstName": "\u041A\u0438\u0440\u0438\u043B\u043B",
+    "Patronymic": "\u042E\u0440\u044C\u0435\u0432\u0438\u0447",
+    "BirthDate": "2005-05-20T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  },
+  {
+    "LastName": "\u042E\u0441\u0443\u043F\u043E\u0432",
+    "FirstName": "\u0420\u043E\u043C\u0430\u043D",
+    "Patronymic": "\u0421\u0435\u0440\u0433\u0435\u0435\u0432\u0438\u0447",
+    "BirthDate": "2005-04-18T00:00:00",
+    "Group": "2\u043F\u043A1",
+    "EnrollmentDate": "2022-09-17T00:00:00",
+    "AddedDate": "2023-05-09T13:45:00"
+  }
+]

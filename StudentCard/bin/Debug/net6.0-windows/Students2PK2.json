@@ -1,0 +1,29 @@
+[
+  {
+    "LastName": "Иванов",
+    "FirstName": "Иван",
+    "Patronymic": "Иванович",
+    "BirthDate": "1995-01-01T00:00:00",
+    "Group": "101",
+    "EnrollmentDate": "2020-09-01T00:00:00",
+    "AddedDate": "2022-04-15T13:45:00"
+  },
+  {
+    "LastName": "Петров",
+    "FirstName": "Петр",
+    "Patronymic": "Петрович",
+    "BirthDate": "1996-02-02T00:00:00",
+    "Group": "102",
+    "EnrollmentDate": "2020-09-01T00:00:00",
+    "AddedDate": "2022-04-16T14:15:00"
+  },
+  {
+    "LastName": "Сидорова",
+    "FirstName": "Мария",
+    "Patronymic": "Ивановна",
+    "BirthDate": "1997-03-03T00:00:00",
+    "Group": "103",
+    "EnrollmentDate": "2020-09-01T00:00:00",
+    "AddedDate": "2022-04-17T15:30:00"
+  }
+]
